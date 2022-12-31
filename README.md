@@ -8,3 +8,6 @@
 
 #Main Page
 ![Screenshot (391)](https://user-images.githubusercontent.com/107808348/210152349-23ed0c53-01d2-461f-8e4b-b4a470474697.png)
+
+#Edit Profile Page
+![Screenshot (392)](https://user-images.githubusercontent.com/107808348/210152406-3e73fc41-6f99-48c0-a4bb-1c40684e1cef.png)
